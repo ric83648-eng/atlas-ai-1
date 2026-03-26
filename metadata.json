@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Atlas AI Studio",
+  "name": "atlas ai",
   "description": "An interactive AI platform for generating high-quality images and videos with voice commands and tiered performance modes.",
   "requestFramePermissions": [
     "microphone"
